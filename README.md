@@ -36,7 +36,7 @@ T. Stelzer, F. Oberhansl, J. Schupp, P. Karl
 
 - **Fraunhofer Institute for Applied and Integrated Security (AISEC)** - Researcher, Hardware Security
 - **Technical University of Munich** - PhD Candidate, TUM School of Computation, Information and Technology
-- 
+
 ## Contact
 
 - **Email**: tobias.stelzer@aisec.fraunhofer.de
