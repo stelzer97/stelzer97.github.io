@@ -16,21 +16,30 @@ My work spans the development of hardware accelerators for lattice-based cryptog
 
 ## Publications
 
+### 2026 
+**Flexible Parallel Radix-4 MDC NTT for FHE**  
+T. Stelzer, P. Karl and A. Zankl
+*IEEE Transactions on Circuits and Systems II: Express Briefs*  
+\[[Paper](https://doi.org/10.1109/TCSII.2026.3700928)\] \[[Code](https://github.com/Fraunhofer-AISEC/flexible-r4mdc-ntt)\]
+
 ### 2025
 
 **Towards ML-KEM & ML-DSA on OpenTitan**  
 A. Abdulrahman, F. Oberhansl, H.N.H. Pham, J. Philipoom, P. Schwabe, T. Stelzer, A. Zankl  
 *2025 IEEE Symposium on Security and Privacy (SP)*, pp. 1-19  
+\[[Paper](https://doi.org/10.1109/sp61157.2025.00220)\] \[[Code](https://github.com/PQC-OpenTitan/towards-ml-kem-and-ml-dsa-on-opentitan)\]
 
 **Extended Version: Enabling Lattice-Based Post-Quantum Cryptography on the OpenTitan Platform**  
 T. Stelzer, F. Oberhansl, J. Schupp, P. Karl, H. Turcuman  
 *Journal of Cryptographic Engineering* 15(2), 11  
+\[[Paper](https://doi.org/10.1007/s13389-025-00369-5)\] \[[Code](https://github.com/Fraunhofer-AISEC/otbn-pq)\]
 
 ### 2023
 
 **Enabling Lattice-Based Post-Quantum Cryptography on the OpenTitan Platform**  
 T. Stelzer, F. Oberhansl, J. Schupp, P. Karl  
 *Proceedings of the 2023 Workshop on Attacks and Solutions in Hardware Security*  
+\[[Paper](https://doi.org/10.1145/3605769.3623993)\] \[[Code](https://github.com/Fraunhofer-AISEC/otbn-pq)\]
 
 ## Affiliations
 
